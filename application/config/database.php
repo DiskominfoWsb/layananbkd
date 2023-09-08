@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = '10.0.1.9';
+$db['default']['hostname'] = '103.155.105.9';
 $db['default']['username'] = 'simpeg';
-$db['default']['password'] = 'EqeHxpnrhjvASFun';
+$db['default']['password'] = 'P3g4w41asnWSBdb2023';
 $db['default']['database'] = 'emutasi';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
